@@ -10,6 +10,7 @@ Projeto:
     - Pontos de função
     - [Desenvolvedores]
   Metodos:
+    - criar_projeto
     - adicionar_desenvolvedor
     - calcular_capacidade_total
     - verificar_viabilidade
@@ -23,6 +24,9 @@ Desenvolvedor:
   - Senioridade
   - Pontos por dia
   - Linguagem
+
+  Metodos: 
+  - cadastrar_desenvolvedor
 </pre>
 
 <li>Criar as seguintes APIs com os seguintes retornos</li>
